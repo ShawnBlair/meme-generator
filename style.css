@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: purple;
+}
+
+.imt {
+    width: 30px;
+    height: 25px;
+    margin-left: 20px;
+}
+
+.mg {
+    color: white;
+    margin-left: 5px;
+}
+
+.rc {
+    color: white;
+    margin-left: 132px;
+    margin-right: 20px;
+}
+
+.bo1 {
+   padding: 36px;    
+    position: relative;
+}
+
+.i1 {
+   max-width: 100%;
+   border-radius: 5px;    
+}
+
+.t1 {    
+    height: 40px;
+    font-family: "Karla";
+    width: 47.5%;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    text-indent: 5px;
+    border: 1px solid plum;
+}
+
+.t2 {    
+    height: 40px;
+    font-family: "Karla";
+    width: 47.5%;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-radius: 5px; 
+    text-indent: 5px;
+    border: 1px solid plum;      
+}
+
+.c1 {
+    height: 40px;
+    background-color: purple;
+    color: white;
+    font-family: "Karla";
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 2px solid lavender;
+}
+
+.tt1 {
+    width: 80%;
+    text-align: center;
+    letter-spacing: 1px;
+    position: absolute;
+    transform: translateX(-50%);
+    top: 32%;
+    left: 50%;
+    color: white;
+    font-family: "Impact";
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: -2px 0px 0px black,
+2px 0px 0px black,
+0px -2px 0px black,
+0px 2px 0px black;
+}
+
+.tt2 {
+    width: 80%;
+    text-align: center;
+    letter-spacing: 1px;
+    position: absolute;
+    transform: translateX(-50%);
+    bottom: 5%;
+    left: 50%;
+    color: white;
+    font-family: "Impact";
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: -2px 0px 0px black,
+2px 0px 0px black,
+0px -2px 0px black,
+0px 2px 0px black;
+}
