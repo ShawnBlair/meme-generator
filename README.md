@@ -1,4 +1,8 @@
-# coe834adcb7ffb2fecf7ac38e
+# Meme Generator
+
+## About the project
+
+The ultimate blueprint to any app that's based on generating memes or meme creation through JavaScript.
 
 Quick start:
 
